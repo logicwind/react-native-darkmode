@@ -1,0 +1,36 @@
+{
+  "name": "react-native-darkmode",
+  "title": "React Native Darkmode",
+  "version": "1.0.0",
+  "description": "provides dark mode status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-darkmode.git",
+    "baseUrl": "https://github.com/github_account/react-native-darkmode"
+  },
+  "keywords": [
+    "react-native",
+    "darkmode",
+    "dark mode",
+    "dark-mode"
+  ],
+  "author": {
+    "name": "Ronit Kadwanr",
+    "email": "ronit@logicwind.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
